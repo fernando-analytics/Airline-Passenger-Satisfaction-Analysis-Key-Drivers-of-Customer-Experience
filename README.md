@@ -42,7 +42,7 @@ The target variable is **Satisfaction**, which is categorized as:
 
 ## Analysis Process
 
-The project followed the following workflow:
+The analysis followed the workflow below:
 
 1. Data Cleaning and Preparation
 2. Exploratory Data Analysis (EDA)
@@ -136,6 +136,6 @@ airline-passenger-satisfaction-analysis/
 
 **Fernando Gonzalez**
 
-Mechanical Engineer with a growing interest in Data Analytics, Business Intelligence, and data-driven decision making.
+Mechanical Engineer transitioning into Data Analytics, with a strong interest in business intelligence, data visualization, and data-driven decision making.
 
 This project was created as part of my effort to develop practical skills in Python, SQL, Tableau, and business analytics through hands-on projects.
