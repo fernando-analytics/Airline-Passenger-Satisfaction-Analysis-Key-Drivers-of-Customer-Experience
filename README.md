@@ -107,7 +107,15 @@ Loyal customers were substantially more satisfied than disloyal customers, sugge
 - GitHub
 
 ---
+## Dashboard
 
+### Tableau Public
+
+[View Interactive Dashboard](https://public.tableau.com/views/airline-passenger-satisfaction-dashboard/Dashboard1)
+
+### Dashboard Preview
+
+![Dashboard](images/dashboard_screenshot.png)
 ## Repository Structure
 
 ```text
